@@ -1,0 +1,12 @@
+# Status dos chamados
+ABERTO = 0
+EM_ATENDIMENTO = 1
+AGUARDANDO = 2
+RESOLVIDO = 3
+FECHADO = 4
+
+# Prioridades
+BAIXA = 0
+MEDIA = 1
+ALTA = 2
+CRITICA = 3
